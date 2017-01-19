@@ -10,13 +10,10 @@ Board Setup where * indicates Ship in the below nxn array
 ~	~	~	~	*	
 ~	~	~	~	~	
 
-~ Indicates a wave on the grid
-
-* Indicates a Ship before being hit
-
-X Indicates a Hit Ship
-
-| Indicates Missed Shot
+'~' Indicates a wave on the grid
+'*' Indicates a Ship before being hit
+'X' Indicates a Hit Ship
+'|' Indicates Missed Shot
 
 Enter number between 0 and 4 for Row and Column for our 5x5 board
 
